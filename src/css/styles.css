@@ -18,3 +18,23 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.flags {
+  margin-right: 20px;
+}
+.flags-mini {
+  margin-right: 10px;
+  width: 70px;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+p {
+  margin: 0;
+  font-size: 24px;
+}
+li {
+  list-style: none;
+  font-size: 18px;
+}
